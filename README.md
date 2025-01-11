@@ -10,6 +10,8 @@ An online platform developed during the pandemic to provide easy access to tailo
 - Admin Panel: Admins can manage orders, view user profiles, and oversee the tailoring process.
 
 ## Technologies Used
-Frontend: HTML, CSS, JavaScript 
+Frontend: HTML, CSS, JavaScript
+
 Backend: PHP 
+
 Database: MySQL
